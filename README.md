@@ -67,7 +67,7 @@ npm start
 
 ## Feedback
 
-If you have any feedback, please reach out to us at anuragraushan373@gmail.com
+If you have any feedback, please reach out to us at mukulgupta.contact@gmail.com
 
 ## Landing Page
 
